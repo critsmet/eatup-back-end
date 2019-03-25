@@ -2,7 +2,7 @@ EatUp uses Yelp Fusion API, Google Maps API, and the Geocoder gem. The backend i
 
 To run this app:
 
-1) Fork and clone this repository. Run a 'bundle-install' in the directory.
+1) Fork and clone this repository. Run 'bundle install' in your terminal at the the repository's directory.
 
 2) Make sure you have PostgreSQL! Run 'rake db:setup' to get the database working.
 
